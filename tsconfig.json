@@ -1,0 +1,10 @@
+{
+  "include": ["support-src/*"],
+  "compilerOptions": {
+    "lib": ["es2015"],
+    "outFile": "support/async.js",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "strict": true
+  }
+}

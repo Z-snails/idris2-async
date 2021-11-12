@@ -1,0 +1,9 @@
+package AsyncJS
+
+modules = Control.JS.Async 
+
+
+sourcedir = "."
+builddir = "build"
+
+version = 0.0.1
